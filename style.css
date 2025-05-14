@@ -1,0 +1,14 @@
+body {
+    background-color: aqua;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: antiquewhite;
+}
+
+img {
+    border-radius: 50%;
+    width: 150px;
+}
